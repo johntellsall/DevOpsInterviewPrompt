@@ -15,4 +15,4 @@ As part of the acceptence criteria, the provided integration tests should all pa
 Fork this repo and submit a PR when you are finished.  In the provided fork, please provide instruction on how to bring up the service (i.e. Makefile, bash script, docker command, etc)
 
 ## Bonus
-Any tests that you develop as part of this excercise are welcome and encouraged.  Additionally, if you would like to provide extra functionality (i.e. PUT method), that is also welcome.
+Any tests that you develop as part of this excercise are welcome and encouraged.  Additionally, if you would like to provide extra functionality (i.e. PUT method, CI configs), that is also welcome.
