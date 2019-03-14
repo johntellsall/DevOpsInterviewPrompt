@@ -2,7 +2,7 @@
 The purpose of this document is to provide a prompt for potential candidates.
 
 ## Goal
-Develop a service, using a language and/or framework of your choosing, that increments a count via a POST call, and returns that count via a GET call.  Since we want to persist the count, please also include a data store of your choice in this project.  Ideally this should all be packaged in a Docker container(s).
+Develop a service, using a node or ruby, that increments a count via a POST call, and returns that count via a GET call.  Since we want to persist the count, please also include a data store of your choice in this project.  Ideally this should all be packaged in a Docker container(s).
 
 ## Acceptance Criteria
 The service should increment the count with a POST call to `http://localhost:3000/count` (an empty body is ok).  The response should include the new count, i.e. `{ "count": 1 }`
